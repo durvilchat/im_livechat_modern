@@ -14,7 +14,7 @@
     'data': [
         "views/im_livechat_modern.xml"
     ],
-    'depends': ["base", "im_livechat"],
+    'depends': ["base", "website", "im_livechat"],
     'installable': True,
     'auto_install': False,
     'application': False,
