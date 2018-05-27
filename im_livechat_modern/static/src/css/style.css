@@ -1,0 +1,14 @@
+.o_composer_text_field {
+    font-size: 13px;
+    padding: 8px;
+    border: none;
+}
+
+.o_chat_mini_composer {
+    padding: 4px 0;
+    background: white;
+}
+
+.o_chat_header {
+    background-color: #337ab7 !important;
+}
