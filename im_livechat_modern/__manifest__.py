@@ -7,7 +7,7 @@
     'author': "Kywana dev solution",
     'complexity': 'easy',
     'version': '1.0',
-    'price': 25,
+    'price': 55,
     'currency': 'EUR',
     'license': 'AGPL-3',
     'images': ['images/2.png'],
