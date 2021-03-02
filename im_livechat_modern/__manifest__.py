@@ -4,7 +4,7 @@
     'version': '1.0',
     'summary': """Modern presentation of the messages of your discussion""",
     'category': 'Website',
-    'author': "Kywana dev solution",
+    'author': "Nusyce LTD",
     'complexity': 'easy',
     'version': '1.0',
     'price': 55,
